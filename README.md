@@ -1,12 +1,23 @@
 # budget-tracker
-AS AN avid traveler
-I WANT to be able to track my withdrawals and deposits with or without a data/internet connection
-SO THAT my account balance is accurate when I am traveling 
 
+Description
+This Budget-Tracker allows a traveler to use their budget online, as well as offline while they are traveling. When they re-connect to the Internet then the transactions that they did while offline will post to their budget tracker.
 
-GIVEN a budget tracker without an internet connection
-WHEN the user inputs an expense or deposit
-THEN they will receive a notification that they have added an expense or deposit
+Table of Contents (Optional)
+Installation
+Usage
+Credits
+License
 
-WHEN the user reestablishes an internet connection
-THEN the deposits or expenses added while they were offline are added to their transaction history and their totals are updated
+Installation
+Inquirer
+
+Usage
+To create a budget-tracker where the user can enter information both when online and offline. When they are offline and come back online their transaction appears in their tracker.
+
+Contributing
+Verna Heyne
+ 
+
+Questions
+Email: vkheyne@gmail.com Github: Github Profile Link - https://heynev.github.io/budget-tracker/
