@@ -1,13 +1,9 @@
 # budget-tracker
 
+https://limitless-chamber-13362.herokuapp.com/
+
 Description
 This Budget-Tracker allows a traveler to use their budget online, as well as offline while they are traveling. When they re-connect to the Internet then the transactions that they did while offline will post to their budget tracker.
-
-Table of Contents (Optional)
-Installation
-Usage
-Credits
-License
 
 Installation
 Inquirer
